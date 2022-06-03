@@ -12,7 +12,7 @@ git clone https://github.com/emrullahcirit/weather-cli
 cd path/to/weather-cli
 ```
 
-After you get into project directory you need to get an API Key from [Open Weather Map](https://openweathermap.org/appid) then you need to creat a .env file and paste you api key into it.
+After you get into project directory you need to get an API Key from [Open Weather Map](https://openweathermap.org/appid) then you need to create a .env file and paste you api key into it.
 
 ```bash
 go build .
