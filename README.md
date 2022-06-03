@@ -2,7 +2,7 @@
 
 Weather CLI is a command line tool which helps you to learn current forecast information of city that you specify.
 
-On this project I used [Cobra](https://github.com/spf13/cobra), Go based framework.
+On this project I used [Cobra](https://github.com/spf13/cobra), Go based framework. Also to draw box on cli I used [box-cli-maker](https://github.com/Delta456/box-cli-maker)
 
 ---
 ## Installation
