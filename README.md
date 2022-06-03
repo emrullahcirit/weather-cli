@@ -8,7 +8,7 @@ On this project I used [Cobra](https://github.com/spf13/cobra), Go based framewo
 ## Installation
 
 ```bash
-git clone https://github.com/emrullahcirit/weather-cli
+git clone https://github.com/emrullahcirit/weather-cli.git
 cd path/to/weather-cli
 ```
 
